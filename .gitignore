@@ -254,3 +254,4 @@ paket-files/
 src/coresolution.Web.Mvc/secrets.json
 src/coresolution.Web.Host/secrets.json
 src/coresolution.Migrator/secrets.json
+/src/coresolution.Web.Host/Properties/ServiceDependencies/apipresupuestadordev - Web Deploy/profile.arm.json
